@@ -1,5 +1,6 @@
-# Ruby on Rails Tutorial: sample application
+# Yooper
+https://yooper.herokuapp.com
 
-This is the sample application for
+Based on the sample application for
 the [*Ruby on Rails Tutorial*](http://railstutorial.org/)
 by [Michael Hartl](http://michaelhartl.com/).
